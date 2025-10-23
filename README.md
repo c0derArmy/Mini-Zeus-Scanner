@@ -26,8 +26,8 @@ Zeus Scanner is a modular web security scanner designed to help identify various
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/c0derArmy/gemini-scanner.git
-    cd gemini-scanner
+    git clone https://github.com/c0derArmy/Mini-Zeus-Scanner.git
+    cd Mini-Zeus-Scanner
     ```
     *(Replace `your-username` with your actual GitHub username or the repository owner's username)*
 
