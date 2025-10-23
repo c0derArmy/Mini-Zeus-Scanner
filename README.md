@@ -1,6 +1,6 @@
-# Gemini Scanner
+# Mini-Zeus Scanner
 
-Gemini Scanner is a modular web security scanner designed to help identify various vulnerabilities and gather information about target websites. It's built with Python and offers a range of scanning capabilities, from basic information gathering to more advanced vulnerability checks.
+Zeus Scanner is a modular web security scanner designed to help identify various vulnerabilities and gather information about target websites. It's built with Python and offers a range of scanning capabilities, from basic information gathering to more advanced vulnerability checks.
 
 ## Features
 
@@ -26,7 +26,7 @@ Gemini Scanner is a modular web security scanner designed to help identify vario
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/gemini-scanner.git
+    git clone https://github.com/c0derArmy/gemini-scanner.git
     cd gemini-scanner
     ```
     *(Replace `your-username` with your actual GitHub username or the repository owner's username)*
